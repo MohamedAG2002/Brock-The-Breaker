@@ -1,0 +1,9 @@
+﻿  Assets.cpp
+  Collision.cpp
+  Game.cpp
+  Score.cpp
+  State.cpp
+  Generating Code...
+C:\Users\family\Desktop\Not Games\Programming\Projects\C++ Projects\MyProjects\SFMLProjects\BrockTheBreaker\BrockTheBreaker\GameObject.h(36): warning C4172: returning address of local variable or temporary
+C:\Users\family\Desktop\Not Games\Programming\Projects\C++ Projects\MyProjects\SFMLProjects\BrockTheBreaker\BrockTheBreaker\GameObject.h(36): warning C4172: returning address of local variable or temporary
+  BrockTheBreaker.vcxproj -> C:\Users\family\Desktop\Not Games\Programming\Projects\C++ Projects\MyProjects\SFMLProjects\BrockTheBreaker\x64\Debug\BrockTheBreaker.exe
