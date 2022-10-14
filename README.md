@@ -6,4 +6,6 @@ It is nothing special, just a Breakout clone made with SFML and C++, as many oth
 
 Clone the repo if you want to tinker with it, or visit my itch.io page if you want to try it out for what ever reason.
 
+Itcho.io page: https://mohamedag.itch.io/brock-the-breaker
+
 Either way, enjoy!
